@@ -15,5 +15,6 @@
     "tslint-jasmine-rules": "^1.5.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "author": "Aneesh Kallarakkal"
 }
