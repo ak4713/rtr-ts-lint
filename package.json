@@ -1,0 +1,19 @@
+{
+  "name": "rtr-ts-lint",
+  "version": "1.0.0",
+  "description": "Lint rules for retresco frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://gituser@gitlab.rtrsupport.de:17971/akallarakkal/rtr-ts-lint.git"
+  },
+  "dependencies": {
+    "tslint": "~5.9.1",
+    "tslint-jasmine-rules": "^1.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

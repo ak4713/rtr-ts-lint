@@ -1,0 +1,19 @@
+{
+    "extends": [
+        "tslint-jasmine-rules"
+    ],
+    "rules": {
+        "no-non-null-assertion": false,
+        "no-any": true,
+        "restrict-plus-operands": true,
+        "switch-default": true,
+        "cyclomatic-complexity": true,
+        "prefer-readonly": true,
+        "newline-before-return": true,
+        "one-variable-per-declaration": true,
+        "prefer-switch": true,
+        "no-unused-variable": true,
+        "no-console": true,
+        "no-focused-tests": true
+    }
+}
